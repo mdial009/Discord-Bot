@@ -1,4 +1,4 @@
-# Zarya-Bot
+# Discord-Bot
 Created a Discord Bot With Node.js
 
 #Bots
