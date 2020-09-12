@@ -2,14 +2,15 @@
   "name": "Zarya-Bot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "dependencies": {
     "discord.js": "^12.3.1",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/Zarya.js",
+    "dev": "concurrently \"nodemon ./src/Zarya.js\" \"nodemon ./src/Experiment626.js\""
   },
   "keywords": [],
   "author": "",

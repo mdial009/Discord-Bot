@@ -111,4 +111,4 @@ bot.on("messageReactionAdd", (reaction, user) => {
     }
   }
 });
-bot.login(process.env.ZaryaJS_Bot_Token);
+bot.login(process.env.Experiment_626_Token);
