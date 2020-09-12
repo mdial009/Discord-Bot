@@ -5,6 +5,7 @@ Created a Discord Bot With Node.js
 * Kick Command
 * Give roles based on reaction on a message
 * Remove roles based on reaction on a message 
+* Announce Command
 
 # Bots
 **Experiment626** <br />
