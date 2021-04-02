@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "discord.js": "^12.5.1",
+    "discord.js": "^12.5.2",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {},
